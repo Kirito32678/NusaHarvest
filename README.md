@@ -171,8 +171,7 @@ anchor deploy --provider.cluster devnet
 
 | Name | Role |
 |------|------|
-| Vincentius Bryan Kwandou | Lead Developer — Smart Contracts, Frontend, Architecture |
-| Raisha Al Fadhila Putri | Product Strategy, Digital Business |
+| Marvel Harjosetio | Lead Developer — Smart Contracts, Frontend, Architecture |
 
 ---
 
