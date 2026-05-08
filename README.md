@@ -17,7 +17,7 @@
 - Insurance products that take weeks to pay out, with manual verification prone to fraud
 - 34.82% unbanked — cannot participate in traditional finance
 
-*Source: BPS 2025, UGM Agricultural Research 2026*
+*Source: [BPS 2025](https://bps.go.id), UGM Agricultural Research 2026*
 
 ---
 
