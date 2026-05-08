@@ -169,10 +169,15 @@ anchor deploy --provider.cluster devnet
 
 ## Team
 
-| Name | Role |
-|------|------|
-| Marvel Harjosetio | Lead Developer — Smart Contracts, Frontend, Architecture |
 
+
+| Name | Role |
+| --- | --- |
+| Marvel Harjosetio | Lead Developer — Smart Contracts, Frontend, Architecture |
+| Raisha Al Fadhila Putri | Marketing & Growth Lead — Web3 Strategy, Cooperative Outreach |
+| Vincentius Bryan Kwandou | Contributing Developer — Scalable Digital Solutions |
+| Azmi Maulana | Infrastructure & Security — Blockchain Deployment |
+| Evander Franklin | Business Development — DeFi Strategy, 4 Years DeFi Experience |
 ---
 
 ## Roadmap
