@@ -181,7 +181,7 @@ anchor deploy --provider.cluster devnet
 | --- | --- |
 | Vincentius Bryan Kwandou | Contributing Developer — Frontend components & repo setup |
 | Azmi Maulana | Security Review — Smart contract logic review |
-| Evander Franklin | Business Development — Cooperative outreach |\
+| Evander Franklin | Business Development — Cooperative outreach |
 
 
 
