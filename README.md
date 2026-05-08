@@ -149,7 +149,7 @@ Hardened after internal security review before this submission:
 ```bash
 # Prerequisites: Node.js 20+, Rust, Solana CLI, Anchor CLI
 
-git clone https://github.com/nayrbryanGaming/NusaHarvest
+git clone https://github.com/Kirito32678/NusaHarvest
 cd NusaHarvest
 
 # Install and run frontend
